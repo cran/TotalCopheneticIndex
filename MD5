@@ -1,6 +1,9 @@
-f2db38ae824af8b5c619e88e5c8806f9 *DESCRIPTION
-825d3209adad01578501d42cc985e13e *NAMESPACE
-a5fbc5fad34c573aaf0dc57576f71076 *R/total.cophenetic.index.R
-cd64c5d698d51c7120acfa4ad76cf6ab *man/list.ancestors.Rd
-540d26573ab1a1ea9e35a9122be7770d *man/tci.Rd
-ffeb50a112ca8efe15b48a8f27e3c505 *man/tci.context.Rd
+2ea5d9fc82756e6e2b8dff23b30d77cc *DESCRIPTION
+0a710ce06f5590fef4161cfd23d2d9eb *NAMESPACE
+a1466a337a23321c8a221492b2eba177 *NEWS.md
+0eb7c0228f2c39c51387579e7e502431 *R/total.cophenetic.index.R
+1f9ef3905b5ce7956e123538570bdeea *README.md
+686bdb9fd8c9b633b706d4522c377e2b *inst/CITATION
+6acd9b511e1a137584f88caabc578c2a *man/list.ancestors.Rd
+4659e037c84899ffdaa5a4ce25443d8c *man/tci.Rd
+fa78e193ea9cfd6b9909d8ecc1075039 *man/tci.context.Rd
