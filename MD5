@@ -1,12 +1,12 @@
-79f782e43da490ff1412e48ae1f4644d *DESCRIPTION
+0295b06d02638fbbffed1983b70ce36a *DESCRIPTION
 09814f23f0580e05691e8fe24717e4f7 *NAMESPACE
-1191172ef49172d6ca6120de0795331c *NEWS.md
+74744df0fe054dbde2ec5f56ebb958ee *NEWS.md
 1379b9b51ef8cdb717c662ec6a07f36f *R/total.cophenetic.index.R
-294cc17baf39ef06394a5755398dc257 *README.md
+ab5349c4490c19129e86fa6911d50981 *README.md
 0a69762ddffd5435f27e41d7cb1f1236 *inst/CITATION
-5331a39fde4dfe6fae691b3bcf189227 *inst/WORDLIST
+25295538ba44aaca8d937d89dcf9c1a8 *inst/WORDLIST
 2cee47bfc381c76a93f3da3904cf4b79 *man/list.ancestors.Rd
 38da03cfccbefdab27aa2a08417162ef *man/tci.Rd
 5712d30d12fb0d109a0252741e0af69f *man/tci.context.Rd
 23e1bd3147ddd2ab63779c7ed7510346 *tests/testthat.R
-65b75b6b84cf54835b9264b860b1398f *tests/testthat/test-tci.R
+3bed610b98dcb6918d30a8a76617d225 *tests/testthat/test-tci.R
